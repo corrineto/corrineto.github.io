@@ -1,4 +1,4 @@
-//tile object
+//tile object   
 function tile_box(){
   this.tile_type;
   this.addToScene = function(id){
